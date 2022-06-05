@@ -1,0 +1,396 @@
+{
+    "name": "Clara",
+    "children": [
+        {
+            "name": "boissons",
+            "children": [
+                {
+                    "name": "alcoolisé",
+                    "children": [
+                        {
+                            "name": "bière",
+                            "value": 3
+                        },
+                        {
+                            "name": "Bloody Mary",
+                            "value": 1
+                        },
+                        {
+                            "name": "cidre",
+                            "value": 1
+                        },
+                        {
+                            "name": "mezcal sour",
+                            "value": 1
+                        },
+                        {
+                            "name": "Margarita",
+                            "value": 1
+                        },
+                        {
+                            "name": "Ouzo",
+                            "value": 1
+                        },
+                        {
+                            "name": "Prosecco",
+                            "value": 1
+                        },
+                        {
+                            "name": "tequila sour",
+                            "value": 1
+                        },
+                        {
+                            "name": "vin",
+                            "value": 8
+                        }
+                    ]
+                },
+                {
+                   "name": "non alcoolisé",
+                   "children": [
+                        {
+                            "name": "café",
+                            "value": 10
+                        },
+                        {
+                            "name": "café glacé",
+                            "value": 1
+                        },
+                        {
+                            "name": "capuccino",
+                            "value": 1
+                        },
+                        {
+                            "name": "coca cola",
+                            "value": 1
+                        },
+                        {
+                            "name": "eau",
+                            "value": 23
+                        },
+                        {
+                            "name": "Fanta orange",
+                            "value": 1
+                        },
+                        {
+                            "name": "jus d'orange",
+                            "value": 1
+                        },
+                        {
+                            "name": "jus de mangue",
+                            "value": 1
+                        },
+                        {
+                            "name": "jus de pêche",
+                            "value": 1
+                        },
+                        {
+                            "name": "sirop grenadine",
+                            "value": 1
+                        },
+                        {
+                            "name": "sirop mirabelle",
+                            "value": 1
+                        },
+                        {
+                            "name": "tisane",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "déjeuner",
+            "children": [
+                {
+                    "name":"autre",
+                    "children": [
+                        {
+                            "name": "pizza aux anchois",
+                            "value": 1
+                        },
+                        {
+                            "name": "poké bowl",
+                            "value": 1
+                        },
+                        {
+                            "name": "ramequin fromage",
+                            "value": 1
+                        },
+                        {
+                            "name": "tzatziki",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name":"céréales",
+                    "children": [
+                        {
+                            "name": "pain perdu",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name":"légumes",
+                    "children": [
+                        {
+                            "name": "petits pois",
+                            "value": 1
+                        },
+                        {
+                            "name": "pois blancs",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name":"pâtes",
+                    "children": [
+                        {
+                            "name": "spaghetti all'arrabbiata",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name":"salade",
+                    "children": [
+                        {
+                            "name": "laitue",
+                            "value": 1
+                        },
+                        {
+                            "name": "salade grecque",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name":"sandwich",
+                    "children": [
+                        {
+                            "name": "gyros",
+                            "value": 1
+                        },
+                        {
+                            "name": "lahmajun agneau",
+                            "value": 1
+                        },
+                        {
+                            "name": "jambon beurre",
+                            "value": 3
+                        }
+                    ]
+                },
+                {
+                    "name":"viande",
+                    "children": [
+                        {
+                            "name": "ragoût d'agneau",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "dîner",
+            "children": [
+                {
+                    "name":"autre",
+                    "children": [
+                        {
+                            "name": "moussaka",
+                            "value": 1
+                        },
+                        {
+                            "name": "patatas bravas",
+                            "value": 1
+                        },
+                        {
+                            "name": "pizza napoletana",
+                            "value": 1
+                        },
+                        {
+                            "name": "tomme",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name":"céréales",
+                    "children": [
+                        {
+                            "name": "pain",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name":"dessert",
+                    "children": [
+                        {
+                            "name": "crème brûlée",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name":"pâtes",
+                    "children": [
+                        {
+                            "name": "lasagnes",
+                            "value": 1
+                        },
+                        {
+                            "name": "spaghetti bolognese",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name":"salade",
+                    "children": [
+                        {
+                            "name": "salade caprese",
+                            "value": 1
+                        },
+                        {
+                            "name": "salade de pois chiches",
+                            "value": 1
+                        },
+                        {
+                            "name": "salade grecque",
+                            "value": 1
+                        },
+                        {
+                            "name": "salade mêlée",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name":"sandwich",
+                    "children": [
+                        {
+                            "name": "cheeseburger",
+                            "value": 1
+                        },
+                        {
+                            "name": "gyros porc",
+                            "value": 1
+                        },
+                        {
+                            "name": "jambon beurre",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name":"viande",
+                    "children": [
+                        {
+                            "name": "tartare de veau",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "petit déjeuner",
+            "children": [
+                {
+                    "name":"boulangerie",
+                    "children": [
+                        {
+                            "name": "croissant",
+                            "value": 2
+                        },
+                        {
+                            "name": "tartine au miel",
+                            "value": 1
+                        },
+                        {
+                            "name": "tartines à la sobrasada",
+                            "value": 1
+                        },
+                        {
+                            "name": "tartines au Cenovis",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name":"céréales",
+                    "children": [
+                        {
+                            "name": "muesli",
+                            "value": 6
+                        }
+                    ]
+                },
+                {
+                    "name":"dessert",
+                    "children": [
+                        {
+                            "name": "cookie au chocolat",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name":"fruits",
+                    "children": [
+                        {
+                            "name": "banane",
+                            "value": 2
+                        },
+                        {
+                            "name": "pomme",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "snack",
+            "children": [
+                {
+                    "name":"autre",
+                    "children": [
+                        {
+                            "name": "chips au bacon",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name":"dessert",
+                    "children": [
+                        {
+                            "name": "glace au Tiramisu",
+                            "value": 1
+                        },
+                        {
+                            "name": "Maltesers",
+                            "value": 1
+                        },
+                        {
+                            "name": "tarte à la rhubarbe",
+                            "value": 1
+                        },
+                        {
+                            "name": "cake à l'orange",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>VDD22</title>
+<link rel="icon" type="image/png" href="candy.png">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Acme|Permanent Marker&effect=neon">
+<link rel="stylesheet" type="text/css" href="./inspector.css">
+<script src="https://code.jquery.com/jquery-3.5.0.js"></script>
+<body>
+    <video id="videoBG" autoplay muted loop>
+        <source src="milk.mp4" type="video/mp4">
+    </video>
+    <div class="texte" onclick="myClassName()"> Ci-dessous est visible notre consommation de nourriture et de boissons pendant une semaine, du 27 avril au 9 mai 2022. Nous nous sommes basées sur le projet <a href="http://www.dear-data.com/theproject"> Dear Data </a> pour imaginer notre visualisation finale. 
+    </div>
+    <div class="sofia"></div>
+    <div class="clara"></div>
+
+    <script type="module">
+
+        import {sofia, clara} from "./index.js";
+        import {Runtime, Library, Inspector} from "./runtime.js";
+
+        const runtime = new Runtime();
+        const main = runtime.module(sofia, Inspector.into('.sofia'));
+        const main2 = runtime.module(clara, Inspector.into('.clara'));
+
+    </script>
+</body>

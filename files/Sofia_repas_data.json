@@ -1,0 +1,485 @@
+{
+    "name": "Sofia",
+    "children": [
+        {
+            "name": "boissons",
+            "children": [
+                {
+                    "name": "alcoolisé",
+                    "children": [
+                        {
+                            "name": "bière",
+                            "value": 3
+                        },
+                        {
+                            "name": "Spritz",
+                            "value": 4
+                        },
+                        {
+                            "name": "vin",
+                            "value": 3
+                        },
+                        {
+                            "name": "whisky sour",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "non alcoolisé",
+                    "children": [
+                        {
+                            "name": "café",
+                            "value": 9
+                        },
+                        {
+                            "name": "café glacé",
+                            "value": 1
+                        },
+                        {
+                            "name": "cappucino",
+                            "value": 4
+                        },
+                        {
+                            "name": "eau",
+                            "value": 7
+                        },
+                        {
+                            "name": "eau vitaminée",
+                            "value": 1
+                        },
+                        {
+                            "name": "ice tea",
+                            "value": 2
+                        },
+                        {
+                            "name": "jus d'orange",
+                            "value": 1
+                        },
+                        {
+                            "name": "jus de fraises",
+                            "value": 1
+                        },
+                        {
+                            "name": "latte",
+                            "value": 1
+                        },
+                        {
+                            "name": "thé noir",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "déjeuner",
+            "children": [
+                {
+                    "name": "autre",
+                    "children": [
+                        {
+                            "name": "sushi",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "céréales",
+                    "children": [
+                        {
+                            "name": "couscous",
+                            "value": 2
+                        },
+                        {
+                            "name": "riz",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "dessert",
+                    "children": [
+                        {
+                            "name": "tarte au citron",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "pâtes",
+                    "children": [
+                        {
+                            "name": "pâtes au saumon",
+                            "value": 1
+                        },
+                        {
+                            "name": "ravioli",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "salade",
+                    "children": [
+                        {
+                            "name": "salade grecque",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "sandwich",
+                    "children": [
+                        {
+                            "name": "ciabbata mozzarella",
+                            "value": 1
+                        },
+                        {
+                            "name": "sandwich poulet curry",
+                            "value": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "soupe",
+                    "children": [
+                        {
+                            "name": "soupe aux légumes",
+                            "value": 1
+                        },
+                        {
+                            "name": "soupe d'agneau",
+                            "value": 1
+                        },
+                        {
+                            "name": "soupe de poulet",
+                            "value": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "viande",
+                    "children": [
+                        {
+                            "name": "porc",
+                            "value": 2
+                        },
+                        {
+                            "name": "Schnitzel",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "dîner",
+            "children": [
+                {
+                    "name": "autre",
+                    "children": [
+                        {
+                            "name": "planchette apéro",
+                            "value": 1
+                        },
+                        {
+                            "name": "gnudi aux épinards ",
+                            "value": 1
+                        },
+                        {
+                            "name": "pizza",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "céréales",
+                    "children": [
+                        {
+                            "name": "couscous",
+                            "value": 1
+                        },
+                        {
+                            "name": "polenta",
+                            "value": 1
+                        },
+                        {
+                            "name": "riz",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "dessert",
+                    "children": [
+                        {
+                            "name": "brownie",
+                            "value": 1
+                        },
+                        {
+                            "name": "glace au chocolat",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "laitier",
+                    "children": [
+                        {
+                            "name": "yogurt",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "légumes",
+                    "children": [
+                        {
+                            "name": "soupe de tomates",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "pâtes",
+                    "children": [
+                        {
+                            "name": "lasagnes",
+                            "value": 1
+                        },
+                        {
+                            "name": "pâtes au saumon",
+                            "value": 1
+                        },
+                        {
+                            "name": "pâtes aux fruits de mer",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "poisson",
+                    "children": [
+                        {
+                            "name": "moules",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "salade",
+                    "children": [
+                        {
+                            "name": "salade à la burrata",
+                            "value": 1
+                        },
+                        {
+                            "name": "salade grecque",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "sandwich",
+                    "children": [
+                        {
+                            "name": "dürüm",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "soupe",
+                    "children": [
+                        {
+                            "name": "soupe de poulet",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "viande",
+                    "children": [
+                        {
+                            "name": "carpaccio de bœuf",
+                            "value": 1
+                        },
+                        {
+                            "name": "poulet",
+                            "value": 1
+                        },
+                        {
+                            "name": "steak hâché",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "petit déjeuner",
+            "children": [
+                {
+                    "name": "fruits",
+                    "children": [
+                        {
+                            "name": "avocat",
+                            "value": 1
+                        },
+                        {
+                            "name": "banane",
+                            "value": 1
+                        },
+                        {
+                            "name": "fraises",
+                            "value": 3
+                        }
+                    ]
+                },
+                {
+                    "name": "boulangerie",
+                    "children": [
+                        {
+                            "name": "brioche",
+                            "value": 1
+                        },
+                        {
+                            "name": "brioche au prosciutto",
+                            "value": 1
+                        },
+                        {
+                            "name": "cannoli",
+                            "value": 2
+                        },
+                        {
+                            "name": "croissant",
+                            "value": 2
+                        },
+                        {
+                            "name": "tartine a la confiture",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "céréales",
+                    "children": [
+                        {
+                            "name": "porridge",
+                            "value": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "dessert",
+                    "children": [
+                        {
+                            "name": "tarte à la ricotta",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "laitier",
+                    "children": [
+                        {
+                            "name": "cottage cheese",
+                            "value": 2
+                        },
+                        {
+                            "name": "yogurt",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "œufs",
+                    "children": [
+                        {
+                            "name": "œufs durs",
+                            "value": 1
+                        },
+                        {
+                            "name": "omelette",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "snack",
+            "children": [
+                {
+                    "name": "autre",
+                    "children": [
+                        {
+                            "name": "chips paprika",
+                            "value": 1
+                        },
+                        {
+                            "name": "chips nature",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "dessert",
+                    "children": [
+                        {
+                            "name": "chocolat",
+                            "value": 2
+                        },
+                        {
+                            "name": "compote",
+                            "value": 1
+                        },
+                        {
+                            "name": "glace vanille",
+                            "value": 1
+                        },
+                        {
+                            "name": "KitKat",
+                            "value": 1
+                        },
+                        {
+                            "name": "macaron",
+                            "value": 1
+                        },
+                        {
+                            "name": "mousse à la vanille",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "fruits",
+                    "children": [
+                        {
+                            "name": "avocat",
+                            "value": 1
+                        },
+                        {
+                            "name": "fraises",
+                            "value": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "laitier",
+                    "children": [
+                        {
+                            "name": "Chavroux",
+                            "value": 1
+                        },
+                        {
+                            "name": "yogurt",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
