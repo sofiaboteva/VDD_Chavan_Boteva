@@ -1,4 +1,4 @@
-# Graphiques de consommation de deux individus 
+# Graphiques de consommation de deux individues 
 
 Ce projet est basé sur des données issues d'une récolte de notre consommation de boissons et de nourriture du 27 avril au 9 mai 2022.
 
