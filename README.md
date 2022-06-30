@@ -61,4 +61,4 @@ En ce qui concerne l'analyse des données, cette visualisation nous permet surto
 Mais ce qui était le plus important pour nous dans ce projet – c'est la première expérience de la programmation et de la visualisation de données dans nos vies.  Nous avons vécu le processus complèxe de la récolte des données jusqu'à la visualisation, nous avons eu l'idée
 de la structure du code et, surtout, nous avons appris de façon empirique l'un des points les plus importants de ce genre de projets : l'organisation des données.
 
-![Alt text](relative/path/to/candy.png?raw=true "Des bonbons")
+![Nourriture](burger.jpg)
